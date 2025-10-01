@@ -2,8 +2,8 @@
 Changelog for package noether_ros
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.1.1 (2025-10-01)
+------------------
 * Added noether_tpp to ament_export_dependencies
 * Contributors: Michael Ripperger
 
